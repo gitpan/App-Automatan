@@ -66,7 +66,7 @@ App::Automatan::Plugin::Filter::Unshorten - Expansion of shortneded URLs
 
 =head1 VERSION
 
-version 0.143560
+version 0.143561
 
 =head1 SYNOPSIS
 

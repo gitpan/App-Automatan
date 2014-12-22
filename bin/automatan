@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# PODNAME: App::Automatan
+# PODNAME: automatan
 
 # ABSTRACT: shell script wrapper for App::Automatan
 
@@ -39,11 +39,11 @@ __END__
 
 =head1 NAME
 
-App::Automatan - shell script wrapper for App::Automatan
+automatan - shell script wrapper for App::Automatan
 
 =head1 VERSION
 
-version 0.143560
+version 0.143561
 
 =head1 AUTHOR
 

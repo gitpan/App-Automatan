@@ -72,7 +72,7 @@ App::Automatan::Plugin::Source::IMAP - IMAP email input module
 
 =head1 VERSION
 
-version 0.143560
+version 0.143561
 
 =head1 SYNOPSIS
 
